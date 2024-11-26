@@ -1,0 +1,1650 @@
+.responsiv {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.otadiv {
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+    background-image: url(./img/bulut.png);
+    margin: 0 auto;
+
+
+}
+
+.headerimg {
+    width: 173px;
+    height: 29px;
+    gap: 50px;
+
+
+}
+
+.bola {
+    align-items: center;
+    gap: 90px;
+
+}
+
+.headertext {
+
+    gap: 30px;
+}
+
+.bola1 {
+    align-items: center;
+    gap: 20px;
+
+}
+
+.textt {
+    width: 600px;
+    align-items: center;
+    gap: 20px;
+}
+
+.bodyjon {
+    justify-content: space-evenly;
+
+}
+
+.button1 {
+    width: 142px;
+    height: 51px;
+    border-radius: 50px;
+    background-color: #793CFB;
+    color: white;
+
+}
+
+.button2 {
+    width: 142px;
+    height: 51px;
+    border-radius: 50px;
+    border: 5px solid #793CFB;
+    color: #793CFB;
+
+}
+
+.batnuchun {
+    display: flex;
+    align-items: center;
+
+}
+
+.text1 {
+    width: 76px;
+    height: 18px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17.64px;
+    letter-spacing: 1.2960000038146973px;
+    text-align: left;
+
+
+
+}
+
+
+
+.din-din {
+    background-image: url(./img/dindin.png);
+    width: 250px;
+    height: 309px;
+    padding: 24.4px 12.9px 43.83px 7.28px;
+
+}
+
+.rasm1-box {
+    width: 264px;
+    height: 300px;
+    align-items: end;
+    margin-top: 30px;
+
+
+}
+
+.bolaa {
+    width: 770.39px;
+    height: 570px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+
+}
+
+.text_1 {
+    width: 303px;
+    height: 198px;
+    margin: 0 auto;
+
+
+}
+
+.text_2 {
+    width: 413px;
+    height: 101px;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin: 0 auto;
+
+
+}
+
+.pastkiqism {
+    width: 531.25px;
+    height: 217px;
+    margin: 0 auto;
+}
+
+.batn {
+    width: 174px;
+    height: 56px;
+    border-radius: 36px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+    background-color: #793CFB;
+    color: white;
+    border: none;
+
+
+}
+
+.inputuchun {
+    width: 329px;
+    height: 58px;
+    border-radius: 36px;
+    border: none;
+
+
+}
+
+.inputlar {
+    display: flex;
+    gap: 20px;
+}
+
+.qalqonrasm {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.odamcha {
+    width: 245px;
+    height: 834.21px;
+    background-image: url(./img/odamchaa.png);
+    display: flex;
+    justify-content: center;
+
+}
+
+.imggg1 {
+    margin-top: 20px;
+}
+
+.odamchaimg {
+    width: 143px;
+    height: 143px;
+    margin-top: -50px;
+
+
+}
+
+.img-1 {
+    width: 100px;
+    height: 100px;
+
+}
+
+.ongtamon {
+    position: relative;
+    width: 300px;
+    height: 400px;
+}
+
+.odamcha_2 {
+    margin-left: -90px;
+}
+
+.sekshen1 {
+    text-align: center;
+}
+
+.ota2 {
+    width: 80%;
+    height: 1300PX;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 3px 3px 20px 3px;
+    color: rgb(255, 247, 247);
+    background-color: rgba(255, 255, 255, 0.822);
+    border-radius: 10px;
+
+
+
+
+
+}
+
+.navber {
+    width: 414px;
+    height: 426px;
+    padding: 5px;
+    padding-top: 10px;
+    gap: 10px;
+    box-shadow: 5px 5px 5px 5px;
+    color: rgb(255, 251, 251);
+    border-radius: 10px;
+
+}
+
+.orqafon {
+    width: 414px;
+    height: 135px;
+    border-radius: 18px;
+    background-color: #ff0f0f56;
+    gap: 25px;
+    margin-bottom: 10px;
+}
+
+.negr_1 {
+    z-index: 1;
+    left: 20px;
+
+}
+
+
+
+.sekshn {
+    width: 107px;
+    height: 28px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.72px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.rasmmm {
+    z-index: 1;
+    margin-left: 20px;
+}
+
+.otaaa {
+    align-items: center;
+}
+
+.chiziq {
+    width: 77px;
+    height: 12px;
+    background: #E9EFF1;
+    border-radius: 10px;
+    align-items: center;
+
+}
+
+.sekshen2 {
+    width: 107px;
+    height: 18px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.72px;
+
+
+
+}
+
+.yozuv {
+    margin-top: 20px;
+}
+
+.sekshen3 {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.72px;
+}
+
+.card_2 {
+    width: 651.61px;
+    height: 615.27px;
+    box-shadow: 0px 1px 2px 5px #ECF4F6;
+    border-radius: 10px;
+
+}
+
+.ichi {
+    width: 593.83px;
+    height: 43.96px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+
+}
+
+.aylana {
+    width: 6.6px;
+    height: 6.59px;
+    background: #FF7E76;
+    border-radius: 5px;
+
+}
+
+.aylana2 {
+    width: 6.6px;
+    height: 6.59px;
+    background: #F7E177;
+    border-radius: 5px;
+}
+
+.aylana3 {
+    width: 6.6px;
+    height: 6.59px;
+    background: #B4CF80;
+    border-radius: 5px;
+}
+
+.negrrr {
+    margin-left: -10px;
+
+}
+
+.negr_22 {
+    margin-left: -10px;
+}
+
+.images2 {
+    z-index: 1;
+    margin-left: -15px;
+}
+
+.images3 {
+    margin-left: -15px;
+}
+
+.bodyjonn {
+    width: 282.99px;
+    height: 21.98px;
+    background: #F3F8FD;
+
+}
+
+.sayt {
+    text-align: center;
+}
+
+.headerbola {
+    width: auto;
+    height: 94.51px;
+    background: #793CFB;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+
+}
+
+#text {
+    width: 343.1px;
+    height: 39.56px;
+    background: #8A54FF;
+    color: white;
+    border: none;
+
+}
+
+.navberichi {
+    width: 503.86px;
+    height: 625.65px;
+    background-color: rgb(158, 189, 189);
+    margin: 0 auto;
+    box-shadow: 0 1px 1px 2px #ECF4F6;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+
+
+
+}
+
+.bolasi {
+    width: 472.13px;
+    height: 296.71px;
+
+
+
+}
+
+.chiziq2 {
+    width: 500px;
+    height: 0px;
+    border: 1px solid #ECF4F6
+}
+
+.foiz {
+    text-align: center;
+}
+
+.ranglar {
+    width: 213.44px;
+    height: 6.59px;
+    background: #B4CF80;
+    border-radius: 5px;
+
+}
+
+.oqrang {
+    width: 213.44px;
+    height: 6.59px;
+    background: #ECF4F6;
+    border-radius: 5px;
+    margin-left: -2px;
+}
+
+.cheskbosslar {
+    width: 500px;
+    height: auto;
+    margin-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.ciziq {
+    width: 52.05px;
+    height: 5.13px;
+    background: #E8F1F4;
+
+
+
+}
+
+.large-radio {
+    width: 13.93px;
+    height: 13.92px;
+    transform: scale(1.5);
+    appearance: none;
+    background: #E8F1F4;
+    color: white;
+    border-radius: 50%;
+    margin-bottom: 4px;
+
+}
+
+.large-radio:checked {
+    background: #B4CF80;
+
+}
+
+.checkboxlar {
+    margin-top: 10px;
+    align-items: center;
+    gap: 10px;
+}
+
+.imgcheskbox {
+    width: 72.59px;
+    height: 8.94px;
+
+
+}
+
+.imgcheeskbox1 {
+    width: 250px;
+    height: 8px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.72px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.chiziq_2 {
+    width: 108.5px;
+    height: 7.13px;
+    background: #E9EFF1;
+    border-radius: 10px;
+
+}
+
+.chiziq3 {
+    width: 79.91px;
+    height: 5.13px;
+    background: #E9EFF1;
+    border-radius: 10px;
+}
+
+.chiziq4 {
+    width: 137.1px;
+    height: 5.13px;
+    background: #E9EFF1;
+    border-radius: 10px;
+
+}
+
+.radiochesket {
+    width: 200px;
+    height: 183.99px;
+    padding: 10px;
+}
+
+.chiziq5 {
+    width: 66.71px;
+    height: 5.13px;
+    background: #E9EFF1;
+    border-radius: 10px;
+
+}
+
+.chiziq6 {
+    width: 85.04px;
+    height: 5.13px;
+    background: #E9EFF1;
+    border-radius: 10px;
+}
+
+.radiochesket1 {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.sekshen_2 {
+    height: 5px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.72px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.pastki_qism {
+    width: 100%;
+    height: 210.96px;
+    margin: 0 auto;
+    background-color: #E8F1F4;
+    box-shadow: 2px 2px 2px #ecdfdf;
+    position: relative;
+    top: 80px;
+    border-radius: 10px;
+    margin-top: 0px;
+
+
+}
+
+
+.chiziq33 {
+    width: auto;
+    height: 0px;
+    border: 1px solid #ECF4F6;
+
+}
+
+.orqasi {
+    width: 200px;
+    height: 140px;
+    background-color: rgba(111, 83, 139, 0.788);
+
+}
+
+.som {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+}
+
+.pastkipul {
+    gap: 100px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+
+}
+
+.backimj {
+    width: 500px;
+    height: 400px;
+    background-image: url(./img/maymunkalla.png);
+    display: flex;
+    position: absolute;
+    right: 100%;
+    background-size: cover;
+
+
+}
+
+.header_3 {
+    width: 1280px;
+    height: 457px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+.header3text {
+    width: 976px;
+    height: 123px;
+    font-family: Roboto;
+    font-size: 58px;
+    font-weight: 400;
+    line-height: 57.6px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-align: center;
+
+
+}
+
+.text_header3 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.rang {
+    font-family: Roboto;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #221437;
+
+}
+
+
+.rasmlar6 {
+    width: 1120px;
+    height: 226px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.img_1 {
+    width: 188px;
+    height: 43px;
+
+
+}
+
+.img_2 {
+    width: 167px;
+    height: 98px;
+
+
+
+}
+
+.img_3 {
+    width: 179px;
+    height: 44px;
+
+
+}
+
+.pastkiqsm-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.pastkiqsm-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+
+
+.img_4 {
+    width: 151px;
+    height: 40px;
+
+
+}
+
+.img_5 {
+    width: 197px;
+    height: 58px;
+
+
+}
+
+.rasm2 {
+    gap: 100px;
+    justify-content: center;
+}
+
+.imj {
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.imj1 {
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.header-4 {
+    width: 1440px;
+    height: 1132px;
+    background-image: url(./img/orqaimg.png);
+    margin: 0 auto;
+
+}
+
+.orqa_img {
+    width: 1414px;
+    height: 693px;
+    background-image: url(./img/orqarasm1.png);
+    background-position: left 300px;
+    background-repeat: no-repeat;
+
+
+}
+
+.sekshn_1 {
+    width: 676px;
+    height: 1px;
+    font-family: Roboto;
+    font-size: 81px;
+    font-weight: 400;
+    line-height: 81px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.sekshn__2 {
+    width: 754px;
+    height: 12px;
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.header_tekst {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.navbeerichi {
+    width: 1152px;
+    height: 417.55px;
+    padding: 0px 0.02px 0px 0px;
+    margin: 0 auto;
+
+}
+
+.kard_1 {
+    width: 307.2px;
+    height: 217.55px;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+.kard_2 {
+    width: 307.2px;
+    height: 217.55px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+.bolasi_1 {
+    width: 306.14px;
+    height: 45.38px;
+    background: #793CFB;
+    border-radius: 20px 20px 0px 0px;
+
+
+
+}
+
+.bolasi_2 {
+    width: 306.14px;
+    height: 45.38px;
+    background: #ABC264;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.header_4text {
+    width: 300px;
+    height: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.card_1orqa {
+    width: 306.14px;
+    height: 200px;
+    background-color: rgba(255, 155, 155, 0.692);
+    margin-top: -18px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.bolasi_rasm {
+    width: 125.71px;
+    height: 52.23px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+
+
+
+
+}
+
+.chiziqq {
+    width: 60.72px;
+    height: 8.56px;
+    background: #DFEAEE;
+    margin: 0 auto;
+
+
+}
+
+.chempion {
+    width: 71.43px;
+    height: 14.24px;
+    margin-left: 20px;
+}
+
+.pastkiqsm-3 {
+    width: 306px;
+    height: 30px;
+    position: relative;
+    top: 100px;
+    gap: 10px;
+
+}
+
+.pastqsm_text1 {
+    width: 92.36px;
+    height: 29.11px;
+    background: #EFF7FD;
+    border-radius: 20px;
+
+
+}
+
+.immg {
+    width: 74.13px;
+    height: 6.96px;
+    padding: 10px;
+
+
+}
+
+.past_yozuv {
+    width: 258px;
+    height: 98px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 10px;
+    line-height: 1.5;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.card-container {
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#cars {
+    width: 124.34px;
+    height: 29.13px;
+    background: #EFF7FD;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+
+}
+
+.selkt {
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.bolachasi-1 {
+    width: 254.69px;
+    height: 115.65px;
+    background-color: rgb(110, 96, 96);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+
+}
+
+.chiziq_11 {
+    width: 35.16px;
+    height: 8.57px;
+    background: #DFEAEE;
+    border-radius: 20px;
+    margin-top: 20px;
+
+
+}
+
+.chiziqlar {
+    justify-content: center;
+    gap: 10px;
+
+
+}
+
+.chiziq_12 {
+    width: 58.31px;
+    height: 8.57px;
+    background: #DFEAEE;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.chiziq_13 {
+    width: 21.44px;
+    height: 8.57px;
+    background: #DFEAEE;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+.chiziq_14 {
+    width: 41.16px;
+    height: 8.57px;
+    background: #DFEAEE;
+    border-radius: 20px;
+    margin-top: 20px;
+
+
+}
+
+.ortachizq {
+    width: 0px;
+    height: 32.55px;
+    border: 1px solid #DFEAEE;
+    margin-top: 20px;
+
+
+}
+
+.narx {
+    justify-content: center;
+    gap: 20px;
+    color: white;
+}
+
+.card3text {
+    width: 300.64px;
+    height: 50px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.pdf {
+    width: 66.03px;
+    height: 80.8px;
+    background: #FFF8E1;
+    align-items: center;
+    border-radius: 0px 20px 0px 0px;
+
+
+}
+
+.pdfichi {
+    width: 35.73px;
+    height: 19.89px;
+    border-radius: 30px;
+    background: #FED758;
+    margin: 0 auto;
+
+
+}
+
+.imgpdf {
+    width: 14.29px;
+    height: 5.49px;
+    padding: 5px 7px;
+
+}
+
+.pdflar {
+    justify-content: center;
+    gap: 20px;
+}
+
+.pdf2 {
+    width: 66.03px;
+    height: 80.8px;
+    align-items: center;
+    border-radius: 0px 20px 0px 0px;
+    background: #EFF7FD;
+
+}
+
+.pdfichi2 {
+    width: 35.73px;
+    height: 19.89px;
+    border-radius: 30px;
+    background: #588DFA;
+    margin: 0 auto;
+}
+
+.pdf3 {
+    width: 66.03px;
+    height: 80.8px;
+    background: #F3FFCF;
+    border-radius: 0px 20px 0px 0px;
+
+
+}
+
+.card_1orqa2 {
+    width: 307px;
+    height: 260.14px;
+    background-color: rgba(255, 155, 155, 0.692);
+    border-radius: 0px 0px 10px 10px;
+    margin-top: -20px;
+
+}
+
+.card_1orqa_2 {
+    width: 307px;
+    height: 260.14px;
+    background-color: rgba(255, 155, 155, 0.692);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.yozv_2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+}
+
+.kapalakcha {
+    width: 98.54px;
+    height: 97.69px;
+    background-image: url(./img/kapalak.png);
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+
+
+
+
+
+}
+
+.header5 {
+    width: 70%;
+    height: 999.17px;
+    margin: 0 auto;
+
+
+
+
+
+
+}
+
+.odamchaaa {
+    width: 672px;
+    height: 363px;
+    background-image: url(./img/odamachaaa.png);
+
+
+}
+
+.header_5text {
+    font-family: Poppins;
+    font-size: 81px;
+    font-weight: 400;
+    line-height: 81px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.header-text {
+    width: 870px;
+    height: 324px;
+    font-family: Poppins;
+    font-size: 81px;
+    font-weight: 700;
+    line-height: 81px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.textsekshin2 {
+    width: 832px;
+    height: 268px;
+    font-family: Poppins;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 38.25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.bolacontener {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.tekstt {
+    align-items: center;
+
+}
+
+.header6 {
+    width: 100%;
+    height: 906.16px;
+    background-image: url(./img/orqaaaimg.png);
+    margin-top: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.cardlar1 {
+    width: 581.42px;
+    height: 583.99px;
+    margin: 20px;
+
+}
+
+.dindin2 {
+    width: 196.04px;
+    height: 147.5px;
+    background-image: url(./img/kapallaaaa.png);
+    margin-left: 20px;
+
+}
+
+.header6bolasi {
+    width: 461.27px;
+    height: 349.15px;
+    margin-top: -25px;
+    background-color: white;
+
+
+
+}
+
+.box1 {
+    width: 461.27px;
+    height: 123.06px;
+    background: #ABC264;
+    border-radius: 9px 9px 0px 0px;
+
+
+}
+
+.boxtext1 {
+    width: 239.87px;
+    height: 8.47px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+}
+
+.bodyjonichi {
+    width: 365.44px;
+    height: 306.79px;
+    position: relative;
+    left: 50px;
+    bottom: 40px;
+    background-color: rgb(231, 165, 165);
+    border-radius: 15px;
+
+
+}
+
+.bodyjon_1pace {
+    width: 365.44px;
+    height: 52.95px;
+    background: #FFF9E6;
+    border-radius: 9px 9px 0px 0px;
+
+
+}
+
+.yozv_1 {
+    font-family: cursive;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.sariqaylana {
+    width: 25.02px;
+    height: 24.47px;
+    background: #FED758;
+    border-radius: 10px;
+
+
+}
+
+.chizqq_1 {
+    width: 64.58px;
+    height: 2.15px;
+    background: #FED758;
+
+}
+
+.buva {
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+
+}
+
+.circle {
+    width: 27.47px;
+    height: 26.47px;
+    border-radius: 50%;
+    background: radial-gradient(circle, #ffffff 10%, #fed758 50%);
+}
+
+.chizqq_2 {
+    width: 64.58px;
+    height: 2.15px;
+    background: #CEDBE3;
+
+
+}
+
+.kokaylana {
+    width: 25.02px;
+    height: 24.47px;
+    background: #CEDBE3;
+    border-radius: 50%;
+
+}
+
+.writing {
+    width: 52.7px;
+    height: 10.08px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 10px;
+    margin-left: 20px;
+
+
+
+}
+
+.writing2 {
+    width: 151.71px;
+    height: 10.08px;
+    font-size: 16px;
+    font-weight: 10px;
+
+
+
+}
+
+.line {
+    width: 50.78px;
+    height: 7.15px;
+    background: #E1EDF1;
+    border-radius: 10px;
+    margin-left: 29px;
+
+
+}
+
+.line2 {
+    width: 50.78px;
+    height: 7.15px;
+    background: #E1EDF1;
+    border-radius: 10px;
+
+}
+
+.pastkichiziqlar {
+    width: 201.71px;
+    height: 50.08px;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+.bola_contenr {
+    align-items: center;
+    justify-content: center;
+    width: 430px;
+    height: 100px;
+    gap: 50px;
+}
+
+.chiziqortaa {
+    width: 50.78px;
+    height: 7.15px;
+    background: #E1EDF1;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+
+}
+
+.line3 {
+    width: 50.78px;
+    height: 7.15px;
+    background: #E1EDF1;
+    border-radius: 15px;
+    position: relative;
+    left: 50px;
+    top: 30px;
+
+}
+
+.card2left {
+    width: 360px;
+    height: 455.59px;
+
+
+
+}
+
+.header6button {
+    width: 121px;
+    height: 53px;
+    border-radius: 36px;
+    background: #793CFB;
+    color: white;
+    border: none;
+
+
+
+}
+
+.unslokk {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 400;
+    line-height: 36.43px;
+
+
+}
+
+.pastkiyozuvvv {
+    width: 297px;
+    height: 202px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.raqam {
+
+    width: 20px;
+    height: 18px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17.64px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #793CFB;
+
+
+}
+
+.ota2contaner {
+    width: 90%;
+    height: 602.59px;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+
+.rigtyozuv {
+    width: 331.19px;
+    height: 602.59px;
+
+
+
+}
+
+.header7text {
+    width: 343px;
+    height: 183px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36.43px;
+    letter-spacing: 0.7200000286102295px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.header2text {
+    width: 303px;
+    height: 278px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.leftimg {
+    width: 806px;
+    height: 513px;
+    position: relative;
+    top: 150px;
+
+
+}
+
+.ordakrasm {
+    width: 694.38px;
+    height: 462.36px;
+    background-image: url(./img/ortak.png);
+    position: relative;
+    top: 100px;
+
+}
+
+.orqaqismlar {
+    width: 128px;
+    height: 128px;
+    background: #f88383;
+    border-radius: 50%;
+    position: relative;
+    bottom: 400px;
+
+
+}
+
+.orqaqismlar2 {
+    width: 128px;
+    height: 128px;
+    background: #ddaaaa;
+    border-radius: 50%;
+    position: relative;
+    bottom: 300px;
+
+
+}
+
+.zikimages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+}
+
+.bolacontenerr {
+    gap: 50px;
+}
+
+.header8_Container {
+    width: 80%;
+    height: 677.44px;
+    margin: 0 auto;
+    margin-top: 200px;
+    gap: 50px;
+
+}
+
+.header8text {
+    width: 344px;
+    /* height: 506px; */
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: Roboto;
+    font-size: 33px;
+    font-weight: 400;
+    line-height: 36.43px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.bolacontenerrr {
+    width: 80%;
+    height: 677.44px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.header8textpastki {
+    width: 266px;
+    height: 21px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #9FB55D;
+
+
+}
+
+.yozvular {
+    position: relative;
+    top: 200px;
+}
+
+.header9contener {
+    width: 1440px;
+    height: 846px;
+    background-image: url(./img/orqarasmchaaa.png);
+}
+
+.bolacontenr_2 {
+    width: 1037px;
+    height: 979px;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
